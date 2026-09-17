@@ -1,0 +1,20 @@
+# Python virtual environment
+virtualenv/
+
+# API keys / secrets
+.env
+
+# Hugging Face cache
+HF_cache/
+
+# Downloaded embedding/local models
+download_wala_embedding/
+embedding_models/
+hf_models/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
